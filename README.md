@@ -13,7 +13,7 @@ Clone this repository to your computer via the CLI (cmd or terminal):
 * Commit your changes in the terminal (!) with the following commands:
   * git add .
   * git commit -m "Added my name"
-  * git push origin master OR git push
+  * git push origin main OR git push
   * git status (optional)
   * git pull
 
@@ -24,7 +24,7 @@ When you've made a handful of meaningful changes to the code, you can bundle the
   * adds all files in the current folder to the commit, including NEW ones
 * git commit -m "A label text that describes what has been changed" 
   * create the commit with a label (message) into the local repository (on your computer)
-* git push origin master     OR    git push
+* git push origin main     OR    git push
   * push the commit to the remote repository (GitHub)
 * git status (optional)
   * shows the status of the local repository (on your computer)
