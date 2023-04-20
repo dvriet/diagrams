@@ -32,3 +32,7 @@ When you've made a handful of meaningful changes to the code, you can bundle the
   * pull the latest changes from the remote repository (GitHub) to your local repository
 
 hello from the other siiiiiide
+
+## Hi it's me James:
+Hi!
+Bye!
