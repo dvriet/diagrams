@@ -30,3 +30,5 @@ When you've made a handful of meaningful changes to the code, you can bundle the
   * shows the status of the local repository (on your computer)
 * git pull 
   * pull the latest changes from the remote repository (GitHub) to your local repository
+
+hello from the other siiiiiide
