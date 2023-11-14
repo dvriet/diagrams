@@ -1,41 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T11:40:18.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.0" etag="AHQc5I7WyRMCAkFLSsFI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T11:59:58.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8eeOtK2OYKhgGwcmfl-c" version="22.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-1" value="Creating a new template repo for students" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="380" height="400" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-2" value="Github:&lt;br&gt;SintLucas-SD-Teachers" style="swimlane;startSize=50;horizontal=0;html=1;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-1">
+          <mxGeometry y="20" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cB7DvBvC8rL1--WPOTw6-2" source="cB7DvBvC8rL1--WPOTw6-5" target="cB7DvBvC8rL1--WPOTw6-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-5" value="&lt;b&gt;Create a repository&lt;/b&gt;&lt;br&gt;sdx_practice_subject_2324&lt;br&gt;sdx_proj_subject_2324" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-2">
+          <mxGeometry x="128.75" y="10" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-23" value="&lt;b&gt;Add team/collaborator&lt;/b&gt;&lt;br&gt;Classroom_assignments" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-2">
+          <mxGeometry x="141.25" y="90" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-3" value="Copy repos" style="swimlane;startSize=50;horizontal=0;html=1;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-1">
+          <mxGeometry y="180" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-25" value="&lt;b&gt;Run copy tool&lt;/b&gt;&lt;br&gt;Copy-New-Repos-From-Teacher-To-Student&lt;br&gt;(Repo&#39;s in Classroom_assignments team will be copied)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-3">
+          <mxGeometry x="60" y="22.5" width="307.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-4" value="Github:&lt;br&gt;Sint-Lucas" style="swimlane;startSize=50;horizontal=0;html=1;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-1">
+          <mxGeometry y="300" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-27" value="New repository was copied to this Github-organisation and ready for use in Github classroom" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="cB7DvBvC8rL1--WPOTw6-4">
+          <mxGeometry x="61.25" y="20" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cB7DvBvC8rL1--WPOTw6-1" source="cB7DvBvC8rL1--WPOTw6-23" target="cB7DvBvC8rL1--WPOTw6-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="cB7DvBvC8rL1--WPOTw6-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="cB7DvBvC8rL1--WPOTw6-1" source="cB7DvBvC8rL1--WPOTw6-25" target="cB7DvBvC8rL1--WPOTw6-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
