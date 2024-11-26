@@ -81,7 +81,7 @@
           <mxGeometry x="80" y="397.5" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R6Mr8nXAsvR23UtDhqNH-31" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="710" width="20" height="40" as="geometry" />
+          <mxGeometry x="300" y="710" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GTlI4HrLVAxBmI_Hxc3y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6Mr8nXAsvR23UtDhqNH-32" target="GTlI4HrLVAxBmI_Hxc3y-2">
           <mxGeometry relative="1" as="geometry" />
